@@ -16,7 +16,7 @@ Permission: Read only;
 Update: every 3 seconds
 
 
-1. Temperature - 
+2. Temperature - 
 Name: Temperature;
 Variable: temperature;
 Permission: Read only;
