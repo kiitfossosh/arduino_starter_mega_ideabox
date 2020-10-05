@@ -1,0 +1,24 @@
+Create an OLED screen that shows the date, time in digital and analog format, temperature and humidity.
+
+COMPONENTS REUIRED :
+
+1.Arduino Uno AND Genuino uno
+2.DHT11 basic temperature-humidity sensor(4 pins)
+3.maxim integrated DS3231
+4.resistor 10k ohm
+5.breadboard and wires
+
+ABOUT THIS PROJECT
+
+Have you ever wanted to make your own interface that can display the time, date, along with the temperature and the humidity? Well it's a lot easier than you'd think.
+This project has demonstrated how to wire and display temperature and humidity onto an inexpensive, easy-to-use, organic LED display that is compatible with the Arduino platform. This is great for small projects where the user may be interested in displaying results in real-time or having a small display for an embedded project. These OLED displays are great because they consume less power and are brighter than traditional LCDs. This tiny display is ready and capable of being inserted into a 3-D printed case and used as a miniature screen for any engineer's project. 
+
+BENEFITS OF THIS PROJECT (what you will learn):
+
+will learn the Arduino DS3231 Master library and understand more about reading Digital and Analog values from sensors .
+Being a small project not take your much time but will be beneficial learning about arduino and sensors.
+
+REFERENCES:
+1.Arduino: arduino.cc
+2.The code for this is : https://github.com/urathoure/Date-Time-Temperature-and-Humidity-Display/blob/main/code
+
